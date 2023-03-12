@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/eYK4iOA.png" height="80%" width="80%" alt="Configure Roles"/>
+<img src="https://i.imgur.com/WyZMc9X.png" height="80%" width="80%" alt="Configure Roles"/>
 </p>
 <p>
 Part 1. Configure Roles
@@ -47,7 +47,7 @@ The Roles are set up according to what access levels each group of members needs
 <br /><hr>
 
 <p>
-<img src="https://i.imgur.com/vpHHmod.png" height="80%" width="80%" alt="Departments"/>
+<img src="https://i.imgur.com/UdXu9Ig.png" height="80%" width="80%" alt="Departments"/>
 </p>
 <p>
 Part 2. Configure Departments
@@ -61,7 +61,7 @@ From here, choose the appropriate settings that will apply to the access levels 
 <br /><hr>
 
 <p>
-<img src="https://i.imgur.com/jL6xBOj.png" height="80%" width="80%" alt="Configure Teams"/>
+<img src="https://i.imgur.com/VQC8cA5.png" height="80%" width="80%" alt="Configure Teams"/>
 </p>
 <p>
 Part 3. Configure Teams
@@ -79,7 +79,7 @@ From here, choose the appropriate members for the team and set the access levels
 <hr>
 
 <p>
-<img src="https://i.imgur.com/truhOnL.png" height="80%" width="80%" alt="Configure Agents"/>
+<img src="https://i.imgur.com/KuIETjq.png" height="80%" width="80%" alt="Configure Agents"/>
 </p>
 <p>
 Part 4. Configure Agents/Workers
@@ -107,7 +107,7 @@ Service Level Agreements (SLA Plans) are set to provide a length of time for the
 <hr>
 
 <p>
-<img src="https://i.imgur.com/PrS8xNs.png" height="80%" width="80%" alt="Add Help Topics"/>
+<img src="https://i.imgur.com/elLbwmn.png" height="80%" width="80%" alt="Add Help Topics"/>
 </p>
 <p>
 Part 6. Configure Help Topics
@@ -122,7 +122,7 @@ Help Topics are created to ensure proper assignment and response of a ticket by 
 <hr>
 
 <p>
-<img src="https://i.imgur.com/6VPg6cI.png" height="80%" width="80%" alt="Allow Anyone to Create Tickets"/>
+<img src="https://i.imgur.com/JJsvDvs.png" height="80%" width="80%" alt="Allow Anyone to Create Tickets"/>
 </p>
 <p>
 Part 7. Configure osTicket to Allow Anyone to Create Tickets
